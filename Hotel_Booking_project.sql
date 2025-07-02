@@ -1,5 +1,6 @@
 
-# There is 5 tables in this project (Users, hotles, transactions, ratings, bookings) 
+# There is 5 tables in this project (Users, hotles, transactions, ratings, bookings). 
+# I have used in below coding sql - multiple tables join, window function, case statement , CTE, conditional functions etc.
 
 create database temp1;
 
