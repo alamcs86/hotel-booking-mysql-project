@@ -1,0 +1,301 @@
+hotel_id,Hotel_Name,city,location,contact,total_rooms
+H_001,The Taj Mahal Hotel,Lucknow,Hazratganj,+1-104-332-1819x6001,32
+H_002,Oberoi Udaivilas,Lucknow,Aliganj,511.615.5940,145
+H_003,ITC Grand Chola,Mumbai,Bandra,(475)255-3419x2832,72
+H_004,Leela Palace,Lucknow,Gomti Nagar,672.423.8849x6965,299
+H_005,Radisson Blu,Delhi,Saket,480.184.5146x27048,236
+H_006,Hyatt Regency,Delhi,Connaught Place,701-543-0391x17182,67
+H_007,Marriott Courtyard,Mumbai,Bandra,509-839-3010,278
+H_008,JW Marriott,Kolkata,Salt Lake,165-667-0106,121
+H_009,The Imperial Hotel,Lucknow,Gomti Nagar,8013267736,299
+H_010,Taj Lands End,Pune,Hinjewadi,+1-723-430-9805,249
+H_011,The Lalit,Kolkata,Park Street,+1-998-543-5346x24751,23
+H_012,Novotel Juhu Beach,Mumbai,Colaba,980-841-2411x8244,236
+H_013,The Westin Garden City,Noida,Sector 62,+1-680-112-8059,99
+H_014,Holiday Inn Express,Mumbai,Andheri,2563421607,72
+H_015,Park Plaza,Delhi,Karol Bagh,294-019-6556x981,69
+H_016,Crowne Plaza,Noida,Sector 62,656-482-3662x9946,155
+H_017,Sheraton Grand,Delhi,Saket,(148)951-3433,255
+H_018,DoubleTree by Hilton,Kolkata,Salt Lake,001-163-287-0831x72788,213
+H_019,Ramada Plaza,Delhi,Saket,714-345-5812x236,170
+H_020,Trident Hotel,Lucknow,Gomti Nagar,(705)466-8893x7346,205
+H_021,The Park Hotels,Kolkata,Salt Lake,556.464.1708x053,55
+H_022,Ginger Hotels,Delhi,Saket,(991)241-9049,136
+H_023,Vivanta by Taj,Noida,Sector 18,6716572628,139
+H_024,The Leela Ambience,Delhi,Karol Bagh,473-799-6507,162
+H_025,Radisson Blu Resort,Pune,Viman Nagar,001-678-377-7014x3634,206
+H_026,Fortune Park Hotels,Mumbai,Andheri,(337)498-9413,201
+H_027,Hotel Ashoka,Mumbai,Colaba,4711671902,156
+H_028,Hotel Hilltop,Lucknow,Gomti Nagar,001-334-123-2812x06797,56
+H_029,Hotel Sea Princess,Kolkata,New Town,210-249-9471x746,107
+H_030,Sofitel BKC,Kolkata,New Town,(594)013-9904x90278,145
+H_031,Taj Exotica Resort & Spa,Mumbai,Andheri,7154516808,214
+H_032,The Gateway Hotel,Noida,Sector 50,9324808613,132
+H_033,The Oberoi Rajvilas,Lucknow,Aliganj,378.263.9821x4658,48
+H_034,Alila Diwa Goa,Mumbai,Bandra,396.360.5766,181
+H_035,Taj Falaknuma Palace,Pune,Kothrud,702.621.7459x61586,53
+H_036,ITC Mughal,Mumbai,Colaba,343-161-1724,181
+H_037,Renaissance Convention Centre Hotel,Mumbai,Colaba,(922)219-6937x92374,275
+H_038,Lemon Tree Hotels,Pune,Viman Nagar,367-136-9594x4064,254
+H_039,The Lalit Ashok,Mumbai,Andheri,+1-047-095-2145x6232,91
+H_040,Novotel Airport Hotel,Mumbai,Colaba,+1-685-160-4817x54965,295
+H_041,Vivanta by Taj - Surya ,Noida,Sector 50,(004)711-3826,239
+H_042,Radisson Blu Marina Hotel ,Kolkata,Park Street,+1-506-431-7139,205
+H_043,The Leela Goa ,Mumbai,Bandra,352.904.2284,280
+H_044,The St. Regis ,Pune,Hinjewadi,(811)775-8917x83908,44
+H_045,W Resort & Spa ,Delhi,Connaught Place,+1-985-698-4789x6118,101
+H_046,Ananda in the Himalayas ,Lucknow,Aliganj,111.161.5280x9885,52
+H_047,Kumarakom Lake Resort ,Pune,Kothrud,001-368-998-0940,259
+H_048,Mahindra Holidays Club Mahindra Resorts ,Kolkata,Park Street,001-599-102-2901x4767,25
+H_049,Sankara Nethralaya Resort ,Lucknow,Gomti Nagar,324-451-0762x2683,78
+H_050,Chancery Pavilion ,Lucknow,Gomti Nagar,516.136.9681x645,156
+H_051,Grand Hyatt ,Lucknow,Aliganj,+1-212-779-9799x552,77
+H_052,Pride Hotels ,Noida,Sector 62,+1-867-980-7935x978,100
+H_053,Taj Vivanta ,Pune,Hinjewadi,(546)659-0515x186,154
+H_054,Four Seasons Hotel ,Kolkata,Salt Lake,+1-528-168-5054x2357,279
+H_055,Amber Dale Luxury Hotel and Spa ,Delhi,Saket,001-927-065-3794x73834,172
+H_056,Hilton Garden Inn ,Lucknow,Gomti Nagar,(239)240-7581x81412,121
+H_057,Taj Club House ,Mumbai,Andheri,152-204-7277x90104,102
+H_058,Crowne Plaza Adyar Park ,Kolkata,New Town,117.980.8932x460,20
+H_059,The Fernhills Palace ,Kolkata,Park Street,051-531-9520x585,270
+H_060,Hyatt Place ,Delhi,Connaught Place,5486874034,205
+H_061,Kohinoor Asiana ,Noida,Sector 18,001-758-416-1692x845,49
+H_062,Le Royal Meridien ,Mumbai,Colaba,(582)029-7021x3556,60
+H_063,The Leela Palace Chennai ,Delhi,Saket,(571)928-5654x310,268
+H_064,Park Hyatt Chennai ,Delhi,Saket,(715)518-8442,84
+H_065,Radisson Blu City Centre ,Mumbai,Colaba,+1-114-678-6691x251,263
+H_066,Radisson Blu Hotel ,Kolkata,Salt Lake,438-424-9818,155
+H_067,The Raintree Hotel Anna Salai ,Kolkata,New Town,7844736471,236
+H_068,Raintree Hotel St Mary's Road ,Mumbai,Colaba,815.371.4732x10469,122
+H_069,Residency Towers ,Lucknow,Aliganj,733.950.0479x74801,224
+H_070,Savera Hotel ,Lucknow,Gomti Nagar,+1-121-655-8523x986,211
+H_071,Taj Connemara ,Pune,Viman Nagar,+1-495-888-7947x055,251
+H_072,Taj Coromandel ,Delhi,Connaught Place,(309)130-7562,135
+H_073,Taj Fisherman's Cove Resort & Spa ,Delhi,Karol Bagh,(785)854-9733,30
+H_074,Trident Chennai ,Kolkata,New Town,041-574-7338x4842,137
+H_075,Welcomhotel Chennai  ,Kolkata,Salt Lake,(773)454-0193x80262,23
+H_076,Welcomhotel Fences Palm Beach  ,Delhi,Saket,(400)499-1547,50
+H_077,Welcomhotel GST  ,Mumbai,Bandra,(742)054-9329,36
+H_078,Westin Chennai  ,Noida,Sector 18,990-453-0174x2684,283
+H_079,Accord Metropolitan  ,Mumbai,Andheri,785.191.0883x98225,268
+H_080,Grand Mercure  ,Mumbai,Colaba,039-106-5180x170,87
+H_081,Golden Tulip  ,Lucknow,Gomti Nagar,(823)004-7868x6337,262
+H_082,Mango Hotels  ,Mumbai,Andheri,028.439.5995,228
+H_083,Royal Orchid Hotels  ,Mumbai,Bandra,(685)662-4628x733,69
+H_084,Keys Hotels  ,Lucknow,Aliganj,+1-304-699-0139,201
+H_085,Orchid Hotels  ,Pune,Kothrud,+1-363-854-6785x445,259
+H_086,Hometel Hotels  ,Lucknow,Hazratganj,001-378-547-7725,70
+H_087,Sarovar Portico  ,Delhi,Karol Bagh,+1-977-008-8600x84840,193
+H_088,Hotel Formule1  ,Delhi,Connaught Place,410.166.6870,118
+H_089,Ibis Styles  ,Mumbai,Colaba,001-025-039-2614,249
+H_090,Ginger Tree Boutique Hotel  ,Mumbai,Andheri,159.996.5047,113
+H_091,Treebo Hotels  ,Noida,Sector 62,(110)475-4121x267,147
+H_092,Hotel Sagar Residency  ,Delhi,Karol Bagh,(444)721-2646,70
+H_093,Hotel Hill View  ,Delhi,Saket,756-924-5937x52654,296
+H_094,Hotel Silver Oak  ,Delhi,Connaught Place,001-374-167-2434x266,141
+H_095,Hotel Grand Plaza  ,Mumbai,Andheri,9656101438,268
+H_096,Hotel Heritage  ,Pune,Hinjewadi,001-254-573-8757x1775,225
+H_097,Hotel Paradise Inn  ,Delhi,Connaught Place,(736)226-6093x79660,214
+H_098,Hotel Blue Moon  ,Delhi,Karol Bagh,+1-696-915-5792x499,155
+H_099,Hotel Royal Castle  ,Pune,Kothrud,(782)827-4225,236
+H_100,Hotel Golden Leaf  ,Lucknow,Gomti Nagar,219.034.0438x4279,269
+H_101,Hotel City Heart  ,Mumbai,Bandra,407.451.7133,171
+H_102,Hotel Dreamland  ,Mumbai,Bandra,948-126-0422x3253,297
+H_103,Hotel Silver Sands  ,Delhi,Saket,001-175-186-3637x45458,180
+H_104,Hotel New Castle  ,Delhi,Connaught Place,(415)415-2064,264
+H_105,Hotel Comfort Inn  ,Kolkata,New Town,162-713-6111x55426,100
+H_106,Hotel Sunshine Inn  ,Delhi,Saket,(973)112-1965x65234,61
+H_107,Hotel Green Park  ,Mumbai,Bandra,364.037.6137x91805,54
+H_108,Hotel Starry Night  ,Lucknow,Hazratganj,(827)109-1043x006,226
+H_109,Hotel Shanti Palace  ,Delhi,Saket,001-303-161-7990x4210,146
+H_110,Hotel Blue Sky Inn  ,Kolkata,New Town,(481)491-7785x07925,40
+H_111,Hotel Silver Star Inn   ,Kolkata,Salt Lake,8635365419,234
+H_112,The Regal Retreat   ,Lucknow,Gomti Nagar,494.937.5973,287
+H_113,The Delightful Palace   ,Noida,Sector 62,138-367-0241x0386,124
+H_114,Four Seasons Resort   ,Lucknow,Gomti Nagar,655-743-1329x12127,180
+H_115,The Imperial Residence   ,Mumbai,Andheri,568.044.2067,222
+H_116,Luxury Castle Hotel   ,Mumbai,Colaba,+1-199-410-1372x1510,173
+H_117,The Starlight Suites   ,Pune,Kothrud,001-670-662-5324x4720,57
+H_118,Paradise Resort   ,Delhi,Karol Bagh,+1-806-578-7598x5642,71
+H_119,The King’s Court   ,Delhi,Saket,3965223955,129
+H_120,The Platinum Villa   ,Kolkata,Park Street,(701)039-3087,87
+H_121,The Elegant Retreat   ,Noida,Sector 18,+1-691-545-2267x52895,145
+H_122,Royal Palace Hotel   ,Noida,Sector 62,939-172-5135x52157,100
+H_123,The Upscale Residence   ,Pune,Viman Nagar,+1-617-932-7104,174
+H_124,The Grand Royal   ,Kolkata,New Town,1533688444,290
+H_125,The Grand Oasis   ,Delhi,Saket,241.714.6774,173
+H_126,The Noble Suite   ,Lucknow,Hazratganj,+1-693-806-8687,88
+H_127,The Magnificent Hotel   ,Noida,Sector 18,6163294511,74
+H_128,The Majestic Haven   ,Lucknow,Gomti Nagar,001-148-564-6799,99
+H_129,The Luxury Lodge   ,Noida,Sector 62,5444713247,127
+H_130,The Splendid Suites   ,Lucknow,Aliganj,(289)023-3030x7053,124
+H_131,The Regal Mansion   ,Lucknow,Gomti Nagar,060-293-3334x6800,155
+H_132,The Grand Mansion   ,Kolkata,Park Street,437.489.6910x858,148
+H_133,The Monarch Hotel   ,Delhi,Connaught Place,(520)744-6660x9935,236
+H_134,The Lavish Villa   ,Noida,Sector 18,001-825-135-3465x5494,21
+H_135,The Luxurious Retreat   ,Noida,Sector 18,(235)697-2521,154
+H_136,The Castle Hotel   ,Mumbai,Colaba,+1-666-676-0083x505,246
+H_137,The Magnificent Palace   ,Kolkata,New Town,001-898-562-5753x2603,238
+H_138,The Five Star Residence   ,Kolkata,Salt Lake,9010016761,77
+H_139,The Royal Suite   ,Delhi,Saket,411-739-3483,96
+H_140,The Prestigious Hotel   ,Kolkata,Salt Lake,143-744-7012,209
+H_141,The Magnificent Haven   ,Kolkata,New Town,667-467-6212,95
+H_142,The Exquisite Palace   ,Pune,Hinjewadi,(701)450-8993x58891,41
+H_143,The Majestic Inn   ,Noida,Sector 62,354-083-8663x17797,40
+H_144,The Lavish Mansion    ,Noida,Sector 18,550.375.8997x571,147
+H_145,Home Sweet Home B&B    ,Lucknow,Hazratganj,(149)331-6373x51609,201
+H_146,Rustic Lodge    ,Kolkata,Park Street,(995)866-9346x5472,99
+H_147,Lakeside Luxury    ,Mumbai,Bandra,001-684-608-1062,110
+H_148,Cozy Cabin    ,Pune,Hinjewadi,+1-838-638-4066x658,111
+H_149,Lakeside Hideaway    ,Lucknow,Aliganj,(484)229-4057x20259,230
+H_150,Hillside Hideaway    ,Lucknow,Gomti Nagar,554-398-7801x57399,147
+H_151,Lakeside Cottage    ,Noida,Sector 18,877.043.5811x28801,75
+H_152,Hilltop Hideaway    ,Pune,Hinjewadi,024-819-3466,260
+H_153,Country Charm B&B    ,Mumbai,Bandra,914-766-0728x3268,255
+H_154,Peaceful Paradise    ,Noida,Sector 62,001-536-822-2394x3129,136
+H_155,Countryside Oasis    ,Mumbai,Bandra,759.492.9955x6205,118
+H_156,Garden Oasis    ,Pune,Kothrud,+1-129-142-8341,162
+H_157,Countryside Cabin    ,Delhi,Karol Bagh,(639)427-8816x580,199
+H_158,Mountain View Retreat    ,Lucknow,Gomti Nagar,001-731-453-0385x67700,224
+H_159,Countryside Lodge    ,Lucknow,Gomti Nagar,+1-659-184-6386x5577,189
+H_160,Countryside Cottage    ,Delhi,Connaught Place,001-136-517-7739x260,153
+H_161,Quiet Cove    ,Mumbai,Colaba,001-041-379-7723,155
+H_162,Serene Place    ,Delhi,Connaught Place,(210)388-6291x2799,242
+H_163,Tranquil Place    ,Noida,Sector 50,(991)624-7314x986,180
+H_164,Relaxing Place    ,Pune,Viman Nagar,(694)486-9594,281
+H_165,Peace Place    ,Delhi,Karol Bagh,449.562.1372x1386,117
+H_166,Sweet Retreat    ,Noida,Sector 18,(984)902-7703x8430,243
+H_167,Northern Inn    ,Delhi,Saket,001-380-118-4895,295
+H_168,Country Cabin    ,Lucknow,Gomti Nagar,+1-947-697-3577,120
+H_169,Countryside House    ,Noida,Sector 62,(880)434-1651x827,55
+H_170,Grand Lodge    ,Lucknow,Aliganj,+1-521-117-9080x759,180
+H_171,Hidden Valley    ,Lucknow,Hazratganj,750.036.9155x94284,173
+H_172,Hillside Cottage     ,Kolkata,Park Street,438-663-2270,229
+H_173,Cozy Corner     ,Noida,Sector 62,545.588.4506x159,171
+H_174,Sanctuary Suites     ,Kolkata,Salt Lake,699-611-2535x54496,118
+H_175,Nest Getaways     ,Pune,Viman Nagar,+1-006-811-4921,214
+H_176,Refreshing Retreat     ,Lucknow,Gomti Nagar,+1-728-299-7968,109
+H_177,Comfort Corner     ,Kolkata,New Town,+1-077-406-4930,174
+H_178,Inn at the Shore     ,Pune,Viman Nagar,+1-389-448-4631x2241,20
+H_179,Beachside Bungalow     ,Noida,Sector 62,207-356-4757,127
+H_180,Coastal Cottage     ,Pune,Viman Nagar,367-303-7183,184
+H_181,Vacation Villa     ,Pune,Kothrud,(491)630-0979,246
+H_182,Seaside Suite     ,Lucknow,Hazratganj,585.730.6524,281
+H_183,Shore House     ,Pune,Viman Nagar,(574)982-1827x448,106
+H_184,Refuge     ,Lucknow,Hazratganj,878.294.5651,165
+H_185,Peaceful Place     ,Kolkata,New Town,053-910-3717x058,191
+H_186,Tranquil Haven     ,Delhi,Connaught Place,392.886.1957x61228,178
+H_187,Serenity Suites     ,Mumbai,Bandra,001-845-776-0049x08240,95
+H_188,Elegant Abode     ,Delhi,Connaught Place,441.969.3157,145
+H_189,Charming Cottage     ,Pune,Viman Nagar,001-906-048-0589x2583,57
+H_190,Blissful Retreat     ,Pune,Kothrud,686-227-8376,119
+H_191,Dreamer's Den     ,Lucknow,Gomti Nagar,(655)355-9042x59792,216
+H_192,Artful Abode     ,Pune,Kothrud,5383388487,144
+H_193,Bohemian Bliss     ,Mumbai,Colaba,1645104636,22
+H_194,Chic Chalet     ,Delhi,Karol Bagh,(205)554-3840x4608,132
+H_195,Timeless Townhouse     ,Mumbai,Colaba,(168)936-3926,285
+H_196,Wanderlust Wing     ,Pune,Hinjewadi,248.262.9251,147
+H_197,Velvet Vineyard Villa     ,Delhi,Karol Bagh,9949993933,88
+H_198,Mosaic Manor     ,Pune,Viman Nagar,(333)127-9757x36609,291
+H_199,Whimsical Willow     ,Kolkata,New Town,001-034-764-4726x49082,182
+H_200,Curio Cottage     ,Pune,Viman Nagar,001-211-175-1868x926,278
+H_201,Boutique Bungalow     ,Pune,Viman Nagar,230-940-7778,248
+H_202,Urban Utopia Hotel     ,Mumbai,Colaba,2099451016,263
+H_203,Palette Pad      ,Pune,Kothrud,(014)556-1681x472,146
+H_204,Dreamer’s Den      ,Lucknow,Aliganj,+1-529-978-7729x343,286
+H_205,Genteel Gem      ,Pune,Viman Nagar,448-850-1556,142
+H_206,Serene Sanctuary      ,Noida,Sector 62,608.495.8803x955,59
+H_207,Trendy Tribune      ,Lucknow,Aliganj,001-504-617-3574x384,140
+H_208,Secret Soirée      ,Noida,Sector 62,+1-230-768-1040x91570,183
+H_209,Petite Parlor      ,Kolkata,Salt Lake,138.585.4249x32149,90
+H_210,Crafted Cosmopolitan      ,Mumbai,Bandra,001-817-921-7174x77332,216
+H_211,Fable Fort      ,Lucknow,Hazratganj,001-281-615-8148,129
+H_212,Bijou Boudoir      ,Delhi,Karol Bagh,001-719-975-8172,228
+H_213,Enchanted Escarpment      ,Noida,Sector 50,(997)335-4946x5190,258
+H_214,Mystic Meridian      ,Pune,Hinjewadi,001-666-683-2723x865,125
+H_215,Brocade Boutique      ,Pune,Kothrud,(796)927-8687x65326,30
+H_216,Aura Alcove      ,Kolkata,Park Street,284-781-8913,264
+H_217,Lattice Loft      ,Delhi,Karol Bagh,(544)209-4940x79290,172
+H_218,Silk Snug      ,Pune,Kothrud,+1-292-752-4372x805,295
+H_219,Cozy Corner Inn      ,Lucknow,Gomti Nagar,(395)041-0276,299
+H_220,Cottage Getaway      ,Kolkata,Salt Lake,+1-569-454-4149,269
+H_221,Private Suite      ,Mumbai,Andheri,(181)753-4430x09109,243
+H_222,Private Retreat      ,Pune,Hinjewadi,+1-174-654-2140x66504,219
+H_223,Cozy Hideaway      ,Noida,Sector 50,962.712.8639,227
+H_224,Home Away from Home ,Lucknow,Hazratganj,256-908-7766x183,259
+H_225,Luxuria Residency,Mumbai,Colaba,+1-063-461-5717,293
+H_226,Majestic Haven,Delhi,Karol Bagh,5061387829,33
+H_227,Tranquil Retreat,Delhi,Saket,929.111.7993x136,239
+H_228,Sapphire Suites,Mumbai,Andheri,(582)739-0219,113
+H_229,Emerald Inn,Delhi,Karol Bagh,(487)632-9092,214
+H_230,Serene Plaza,Noida,Sector 18,373.403.1277x22005,252
+H_231,Prestige Residency,Noida,Sector 62,(353)153-1363x63179,214
+H_232,Elegant Retreat,Noida,Sector 62,776-253-4929,149
+H_233,Opulent Villa,Delhi,Karol Bagh,406.335.6939x290,29
+H_234,Amara Haven,Lucknow,Gomti Nagar,001-632-543-1074x279,46
+H_235,Classic Suites,Noida,Sector 18,046.498.9319x50850,55
+H_236,Elite Inn,Lucknow,Hazratganj,001-933-554-8640x15577,35
+H_237,Graceful Retreat,Mumbai,Bandra,(411)241-2723,30
+H_238,Noble Villa,Kolkata,Salt Lake,+1-569-557-9887x7492,142
+H_239,Harmony Haven,Mumbai,Andheri,729-284-2222x3105,78
+H_240,Timeless Residency,Kolkata,Salt Lake,275.208.8547x4929,258
+H_241,Crystal Palace,Lucknow,Aliganj,001-430-187-1863x75998,208
+H_242,Sunrise Suites,Mumbai,Colaba,(650)455-4781x376,78
+H_243,Orchid Inn,Mumbai,Andheri,(879)232-6487,75
+H_244,Mystic Retreat,Kolkata,Salt Lake,001-301-471-9597x964,179
+H_245,Moonlight Haven,Kolkata,New Town,+1-504-481-8321x9285,212
+H_246,Royal Orchid Villa,Pune,Viman Nagar,338.988.8167x11207,121
+H_247,Azure Suites,Delhi,Saket,001-110-760-3108x907,144
+H_248,Platinum Retreat,Delhi,Saket,(289)389-1190x833,174
+H_249,Velvet Haven,Lucknow,Gomti Nagar,001-138-759-2712x5663,81
+H_250,Splendid Residency     ,Kolkata,Salt Lake,001-473-864-6317x5207,197
+H_251,The Heritage Retreat,Kolkata,Park Street,674.994.6579,209
+H_252,Serenity Resort,Delhi,Saket,147-732-0101,194
+H_253,Royal Orchid Hotel,Delhi,Karol Bagh,848.588.0061x6756,270
+H_254,The Emerald Isle,Delhi,Karol Bagh,+1-889-778-2806x47969,205
+H_255,Himalayan Heights,Lucknow,Aliganj,+1-333-491-1415x20850,98
+H_256,Lavender Lodge,Pune,Hinjewadi,001-357-852-9456x371,287
+H_257,The Blissful Haven,Lucknow,Aliganj,987-635-1484,295
+H_258,Sapphire Suites,Pune,Kothrud,+1-690-835-7232x466,243
+H_259,Golden Leaf Resort,Lucknow,Gomti Nagar,477.866.0324,157
+H_260,The Tranquil Oasis,Noida,Sector 18,198.189.8471,64
+H_261,Lotus Inn,Noida,Sector 62,001-078-515-8673,144
+H_262,The Regal Retreat,Pune,Viman Nagar,090-034-8645x1837,214
+H_263,Sunset View Hotel,Noida,Sector 18,612-481-5698x57002,273
+H_264,The Enchanted Garden,Noida,Sector 18,724.295.4316x526,269
+H_265,Whispering Pines Resort,Mumbai,Andheri,(152)910-8677,152
+H_266,The Celestial Palace,Noida,Sector 62,(620)443-9735,161
+H_267,Crystal Waters Hotel,Kolkata,Salt Lake,+1-900-489-6465x280,284
+H_268,The Majestic Retreat,Mumbai,Bandra,(644)948-5625x728,143
+H_269,Elysium Hotel & Spa,Lucknow,Aliganj,215-134-2284,270
+H_270,The Sapphire Palace,Kolkata,Salt Lake,165-915-2017x7749,263
+H_271,Paradise Inn & Suites,Lucknow,Gomti Nagar,032-664-2147,271
+H_272,The Rustic Charm Hotel,Pune,Hinjewadi,(926)610-8573x278,67
+H_273,Mystic Mountain Resort,Noida,Sector 18,8108186617,227
+H_274,The Opulent Oasis,Lucknow,Hazratganj,794.523.2194x168,176
+H_275,Harmony Heights Hotel,Lucknow,Gomti Nagar,037.236.8314,208
+H_276,The Grand Heritage Hotel,Pune,Viman Nagar,960-501-6679x9840,291
+H_277,Cascading Waters Resort,Noida,Sector 62,957.602.4375x7383,189
+H_278,The Serene Sanctuary,Noida,Sector 50,(232)971-6743,252
+H_279,Royal Heritage Inn,Noida,Sector 62,455.084.2891x0771,148
+H_280,The Velvet Retreat,Mumbai,Bandra,524.787.1255,118
+H_281,Amber Heights Hotel,Noida,Sector 18,286.326.6678,294
+H_282,Tranquil Valley Resort,Lucknow,Hazratganj,+1-846-684-5504x8926,118
+H_283,The Dreamscape Hotel,Mumbai,Colaba,628-843-1884x85200,267
+H_284,Glistening Waters Hotel,Noida,Sector 50,001-998-935-4492x6831,288
+H_285,The Emerald Retreat,Kolkata,Park Street,(869)886-4976x776,71
+H_286,Radiant Resort & Spa,Mumbai,Andheri,+1-519-611-5940,136
+H_287,The Comfort Cove Inn,Noida,Sector 18,270.185.1067,174
+H_288,Blissful Meadows Hotel,Delhi,Saket,807-412-0948x18139,293
+H_289,Starlight Suites & Spa,Mumbai,Andheri,001-718-956-9070,43
+H_290,The Pearl Palace Hotel,Delhi,Saket,(462)095-2004,169
+H_291,Golden Horizon Resort,Lucknow,Hazratganj,+1-617-063-0489,271
+H_292,Majestic View Inn,Delhi,Connaught Place,868.700.7942,165
+H_293,Horizon Heights Hotel,Pune,Kothrud,+1-463-985-5474,245
+H_294,The Cozy Nook Inn,Noida,Sector 18,681.180.7156x9562,46
+H_295,Lush Green Retreats Hotel,Noida,Sector 62,+1-433-750-4793x0361,78
+H_296,Serene Shores Resort,Delhi,Karol Bagh,8948706056,271
+H_297,Aqua Vista Hotel & Spa,Delhi,Saket,001-036-133-2541,47
+H_298,Charming Cottages Inn,Mumbai,Bandra,199.717.9110,175
+H_299,Heavenly Haven Hotel,Delhi,Connaught Place,(110)804-6619x63990,80
+H_300,Sunrise Ridge Resort,Kolkata,Park Street,+1-845-679-7232x0024,135

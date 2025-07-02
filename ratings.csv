@@ -1,0 +1,801 @@
+booking_id,ratings
+B_00001,Dissatisfied
+B_00002,Good
+B_00003,Average
+B_00004,Excellent
+B_00005,Fair
+B_00006,Dissatisfied
+B_00007,Very Good
+B_00008,Very Dissatisfied
+B_00009,Average
+B_00010,Excellent
+B_00011,Fair
+B_00012,Very Good
+B_00013,Very Good
+B_00014,Average
+B_00015,Average
+B_00016,Average
+B_00017,Good
+B_00018,Very Dissatisfied
+B_00019,Dissatisfied
+B_00020,Good
+B_00021,Very Dissatisfied
+B_00022,Good
+B_00023,Good
+B_00024,Good
+B_00025,Very Good
+B_00026,Excellent
+B_00027,Good
+B_00028,Very Good
+B_00029,Very Good
+B_00030,Very Good
+B_00031,Dissatisfied
+B_00032,Very Good
+B_00033,Fair
+B_00034,Very Good
+B_00035,Good
+B_00036,Good
+B_00037,Excellent
+B_00038,Very Good
+B_00039,Average
+B_00040,Very Good
+B_00041,Good
+B_00042,Good
+B_00043,Very Good
+B_00044,Very Good
+B_00045,Very Good
+B_00046,Very Dissatisfied
+B_00047,Good
+B_00048,Fair
+B_00049,Very Good
+B_00050,Very Good
+B_00051,Excellent
+B_00052,Fair
+B_00053,Very Good
+B_00054,Very Good
+B_00055,Average
+B_00056,Dissatisfied
+B_00057,Fair
+B_00058,Dissatisfied
+B_00059,Excellent
+B_00060,Very Good
+B_00061,Dissatisfied
+B_00062,Average
+B_00063,Fair
+B_00064,Good
+B_00065,Very Good
+B_00066,Very Good
+B_00067,Fair
+B_00068,Good
+B_00069,Very Dissatisfied
+B_00070,Good
+B_00071,Very Dissatisfied
+B_00072,Very Good
+B_00073,Very Good
+B_00074,Good
+B_00075,Good
+B_00076,Average
+B_00077,Good
+B_00078,Excellent
+B_00079,Fair
+B_00080,Excellent
+B_00081,Average
+B_00082,Dissatisfied
+B_00083,Very Good
+B_00084,Good
+B_00085,Good
+B_00086,Very Good
+B_00087,Excellent
+B_00088,Dissatisfied
+B_00089,Average
+B_00090,Good
+B_00091,Very Good
+B_00092,Very Good
+B_00093,Fair
+B_00094,Good
+B_00095,Fair
+B_00096,Average
+B_00097,Very Good
+B_00098,Very Good
+B_00099,Excellent
+B_00100,Good
+B_00101,Very Good
+B_00102,Fair
+B_00103,Fair
+B_00104,Very Good
+B_00105,Very Good
+B_00106,Fair
+B_00107,Very Good
+B_00108,Very Dissatisfied
+B_00109,Fair
+B_00110,Very Good
+B_00111,Very Good
+B_00112,Very Good
+B_00113,Good
+B_00114,Good
+B_00115,Good
+B_00116,Average
+B_00117,Very Good
+B_00118,Fair
+B_00119,Very Good
+B_00120,Very Good
+B_00121,Very Good
+B_00122,Very Good
+B_00123,Good
+B_00124,Dissatisfied
+B_00125,Dissatisfied
+B_00126,Very Good
+B_00127,Very Good
+B_00128,Very Good
+B_00129,Good
+B_00130,Excellent
+B_00131,Dissatisfied
+B_00132,Good
+B_00133,Very Good
+B_00134,Good
+B_00135,Very Good
+B_00136,Good
+B_00137,Very Good
+B_00138,Good
+B_00139,Dissatisfied
+B_00140,Excellent
+B_00141,Very Dissatisfied
+B_00142,Average
+B_00143,Average
+B_00144,Good
+B_00145,Excellent
+B_00146,Excellent
+B_00147,Good
+B_00148,Very Good
+B_00149,Excellent
+B_00150,Average
+B_00151,Average
+B_00152,Very Good
+B_00153,Dissatisfied
+B_00154,Very Good
+B_00155,Good
+B_00156,Average
+B_00157,Very Good
+B_00158,Good
+B_00159,Very Good
+B_00160,Good
+B_00161,Good
+B_00162,Good
+B_00163,Very Dissatisfied
+B_00164,Excellent
+B_00165,Excellent
+B_00166,Very Good
+B_00167,Fair
+B_00168,Very Dissatisfied
+B_00169,Good
+B_00170,Very Good
+B_00171,Dissatisfied
+B_00172,Dissatisfied
+B_00173,Average
+B_00174,Fair
+B_00175,Good
+B_00176,Good
+B_00177,Dissatisfied
+B_00178,Good
+B_00179,Excellent
+B_00180,Dissatisfied
+B_00181,Good
+B_00182,Good
+B_00183,Dissatisfied
+B_00184,Dissatisfied
+B_00185,Average
+B_00186,Average
+B_00187,Very Good
+B_00188,Very Good
+B_00189,Very Good
+B_00190,Excellent
+B_00191,Fair
+B_00192,Good
+B_00193,Very Good
+B_00194,Very Good
+B_00195,Dissatisfied
+B_00196,Average
+B_00197,Excellent
+B_00198,Good
+B_00199,Dissatisfied
+B_00200,Very Dissatisfied
+B_00201,Good
+B_00202,Very Good
+B_00203,Average
+B_00204,Good
+B_00205,Very Good
+B_00206,Fair
+B_00207,Dissatisfied
+B_00208,Very Good
+B_00209,Average
+B_00210,Average
+B_00211,Very Good
+B_00212,Very Good
+B_00213,Fair
+B_00214,Very Good
+B_00215,Excellent
+B_00216,Good
+B_00217,Very Good
+B_00218,Very Good
+B_00219,Good
+B_00220,Good
+B_00221,Good
+B_00222,Very Good
+B_00223,Very Good
+B_00224,Average
+B_00225,Average
+B_00226,Very Good
+B_00227,Good
+B_00228,Very Good
+B_00229,Dissatisfied
+B_00230,Good
+B_00231,Average
+B_00232,Very Good
+B_00233,Excellent
+B_00234,Good
+B_00235,Very Good
+B_00236,Fair
+B_00237,Good
+B_00238,Very Dissatisfied
+B_00239,Fair
+B_00240,Very Good
+B_00241,Fair
+B_00242,Good
+B_00243,Average
+B_00244,Very Good
+B_00245,Very Dissatisfied
+B_00246,Good
+B_00247,Good
+B_00248,Good
+B_00249,Fair
+B_00250,Very Good
+B_00251,Good
+B_00252,Fair
+B_00253,Dissatisfied
+B_00254,Excellent
+B_00255,Very Good
+B_00256,Average
+B_00257,Excellent
+B_00258,Excellent
+B_00259,Excellent
+B_00260,Good
+B_00261,Very Dissatisfied
+B_00262,Very Good
+B_00263,Excellent
+B_00264,Average
+B_00265,Excellent
+B_00266,Very Good
+B_00267,Very Good
+B_00268,Fair
+B_00269,Good
+B_00270,Excellent
+B_00271,Very Good
+B_00272,Very Good
+B_00273,Excellent
+B_00274,Very Good
+B_00275,Very Good
+B_00276,Fair
+B_00277,Good
+B_00278,Very Dissatisfied
+B_00279,Excellent
+B_00280,Dissatisfied
+B_00281,Good
+B_00282,Fair
+B_00283,Average
+B_00284,Dissatisfied
+B_00285,Very Good
+B_00286,Very Good
+B_00287,Average
+B_00288,Very Good
+B_00289,Average
+B_00290,Good
+B_00291,Average
+B_00292,Fair
+B_00293,Very Good
+B_00294,Excellent
+B_00295,Very Good
+B_00296,Average
+B_00297,Excellent
+B_00298,Good
+B_00299,Dissatisfied
+B_00300,Very Good
+B_00301,Excellent
+B_00302,Dissatisfied
+B_00303,Good
+B_00304,Excellent
+B_00305,Very Good
+B_00306,Very Good
+B_00307,Good
+B_00308,Dissatisfied
+B_00309,Good
+B_00310,Very Dissatisfied
+B_00311,Very Good
+B_00312,Good
+B_00313,Very Good
+B_00314,Very Good
+B_00315,Fair
+B_00316,Very Good
+B_00317,Good
+B_00318,Good
+B_00319,Very Good
+B_00320,Good
+B_00321,Excellent
+B_00322,Good
+B_00323,Excellent
+B_00324,Average
+B_00325,Good
+B_00326,Very Good
+B_00327,Good
+B_00328,Fair
+B_00329,Very Good
+B_00330,Good
+B_00331,Very Good
+B_00332,Dissatisfied
+B_00333,Excellent
+B_00334,Good
+B_00335,Very Good
+B_00336,Good
+B_00337,Very Good
+B_00338,Very Good
+B_00339,Dissatisfied
+B_00340,Good
+B_00341,Very Good
+B_00342,Fair
+B_00343,Dissatisfied
+B_00344,Very Good
+B_00345,Good
+B_00346,Very Dissatisfied
+B_00347,Excellent
+B_00348,Good
+B_00349,Very Good
+B_00350,Average
+B_00351,Excellent
+B_00352,Fair
+B_00353,Dissatisfied
+B_00354,Fair
+B_00355,Dissatisfied
+B_00356,Very Good
+B_00357,Fair
+B_00358,Fair
+B_00359,Average
+B_00360,Very Good
+B_00361,Very Good
+B_00362,Good
+B_00363,Dissatisfied
+B_00364,Very Good
+B_00365,Excellent
+B_00366,Good
+B_00367,Very Good
+B_00368,Average
+B_00369,Fair
+B_00370,Fair
+B_00371,Very Good
+B_00372,Good
+B_00373,Good
+B_00374,Excellent
+B_00375,Average
+B_00376,Average
+B_00377,Very Good
+B_00378,Good
+B_00379,Very Good
+B_00380,Excellent
+B_00381,Average
+B_00382,Good
+B_00383,Good
+B_00384,Average
+B_00385,Fair
+B_00386,Excellent
+B_00387,Good
+B_00388,Fair
+B_00389,Very Good
+B_00390,Fair
+B_00391,Very Good
+B_00392,Very Good
+B_00393,Excellent
+B_00394,Fair
+B_00395,Dissatisfied
+B_00396,Good
+B_00397,Fair
+B_00398,Average
+B_00399,Good
+B_00400,Good
+B_00401,Average
+B_00402,Good
+B_00403,Good
+B_00404,Good
+B_00405,Very Good
+B_00406,Dissatisfied
+B_00407,Very Good
+B_00408,Fair
+B_00409,Very Good
+B_00410,Dissatisfied
+B_00411,Excellent
+B_00412,Average
+B_00413,Very Good
+B_00414,Good
+B_00415,Good
+B_00416,Fair
+B_00417,Very Good
+B_00418,Average
+B_00419,Good
+B_00420,Very Good
+B_00421,Excellent
+B_00422,Dissatisfied
+B_00423,Average
+B_00424,Average
+B_00425,Excellent
+B_00426,Fair
+B_00427,Good
+B_00428,Good
+B_00429,Average
+B_00430,Very Dissatisfied
+B_00431,Very Good
+B_00432,Fair
+B_00433,Good
+B_00434,Fair
+B_00435,Fair
+B_00436,Good
+B_00437,Good
+B_00438,Good
+B_00439,Good
+B_00440,Very Good
+B_00441,Excellent
+B_00442,Fair
+B_00443,Very Good
+B_00444,Very Good
+B_00445,Very Good
+B_00446,Dissatisfied
+B_00447,Very Good
+B_00448,Fair
+B_00449,Good
+B_00450,Very Good
+B_00451,Good
+B_00452,Very Good
+B_00453,Very Good
+B_00454,Very Good
+B_00455,Average
+B_00456,Excellent
+B_00457,Very Good
+B_00458,Good
+B_00459,Fair
+B_00460,Good
+B_00461,Very Good
+B_00462,Good
+B_00463,Very Good
+B_00464,Dissatisfied
+B_00465,Good
+B_00466,Very Good
+B_00467,Good
+B_00468,Fair
+B_00469,Very Good
+B_00470,Very Dissatisfied
+B_00471,Very Good
+B_00472,Very Good
+B_00473,Good
+B_00474,Excellent
+B_00475,Average
+B_00476,Excellent
+B_00477,Fair
+B_00478,Very Good
+B_00479,Very Good
+B_00480,Very Dissatisfied
+B_00481,Average
+B_00482,Dissatisfied
+B_00483,Dissatisfied
+B_00484,Very Good
+B_00485,Very Dissatisfied
+B_00486,Very Good
+B_00487,Very Good
+B_00488,Excellent
+B_00489,Average
+B_00490,Very Good
+B_00491,Very Good
+B_00492,Very Good
+B_00493,Very Good
+B_00494,Very Good
+B_00495,Very Good
+B_00496,Average
+B_00497,Excellent
+B_00498,Excellent
+B_00499,Very Good
+B_00500,Excellent
+B_00501,Excellent
+B_00502,Very Good
+B_00503,Very Good
+B_00504,Very Good
+B_00505,Very Good
+B_00506,Fair
+B_00507,Very Good
+B_00508,Dissatisfied
+B_00509,Very Good
+B_00510,Fair
+B_00511,Very Good
+B_00512,Very Good
+B_00513,Very Good
+B_00514,Good
+B_00515,Good
+B_00516,Fair
+B_00517,Good
+B_00518,Very Good
+B_00519,Excellent
+B_00520,Average
+B_00521,Good
+B_00522,Good
+B_00523,Very Good
+B_00524,Very Good
+B_00525,Good
+B_00526,Very Good
+B_00527,Excellent
+B_00528,Fair
+B_00529,Very Good
+B_00530,Very Good
+B_00531,Very Good
+B_00532,Fair
+B_00533,Very Good
+B_00534,Very Dissatisfied
+B_00535,Good
+B_00536,Good
+B_00537,Good
+B_00538,Good
+B_00539,Average
+B_00540,Dissatisfied
+B_00541,Good
+B_00542,Very Dissatisfied
+B_00543,Average
+B_00544,Very Good
+B_00545,Fair
+B_00546,Very Good
+B_00547,Very Good
+B_00548,Average
+B_00549,Very Good
+B_00550,Excellent
+B_00551,Good
+B_00552,Good
+B_00553,Very Dissatisfied
+B_00554,Very Dissatisfied
+B_00555,Very Good
+B_00556,Excellent
+B_00557,Good
+B_00558,Very Good
+B_00559,Average
+B_00560,Very Dissatisfied
+B_00561,Excellent
+B_00562,Very Good
+B_00563,Average
+B_00564,Very Good
+B_00565,Very Dissatisfied
+B_00566,Very Good
+B_00567,Very Good
+B_00568,Good
+B_00569,Good
+B_00570,Average
+B_00571,Very Good
+B_00572,Excellent
+B_00573,Very Good
+B_00574,Good
+B_00575,Very Good
+B_00576,Excellent
+B_00577,Very Dissatisfied
+B_00578,Very Dissatisfied
+B_00579,Good
+B_00580,Very Good
+B_00581,Excellent
+B_00582,Average
+B_00583,Excellent
+B_00584,Very Good
+B_00585,Fair
+B_00586,Dissatisfied
+B_00587,Dissatisfied
+B_00588,Very Good
+B_00589,Average
+B_00590,Dissatisfied
+B_00591,Excellent
+B_00592,Good
+B_00593,Very Good
+B_00594,Excellent
+B_00595,Good
+B_00596,Very Good
+B_00597,Excellent
+B_00598,Very Good
+B_00599,Very Dissatisfied
+B_00600,Very Good
+B_00601,Dissatisfied
+B_00602,Good
+B_00603,Fair
+B_00604,Dissatisfied
+B_00605,Fair
+B_00606,Very Good
+B_00607,Good
+B_00608,Good
+B_00609,Fair
+B_00610,Very Good
+B_00611,Good
+B_00612,Dissatisfied
+B_00613,Good
+B_00614,Average
+B_00615,Fair
+B_00616,Fair
+B_00617,Fair
+B_00618,Very Good
+B_00619,Good
+B_00620,Fair
+B_00621,Very Good
+B_00622,Good
+B_00623,Good
+B_00624,Very Good
+B_00625,Excellent
+B_00626,Average
+B_00627,Good
+B_00628,Dissatisfied
+B_00629,Dissatisfied
+B_00630,Very Good
+B_00631,Good
+B_00632,Good
+B_00633,Average
+B_00634,Excellent
+B_00635,Very Good
+B_00636,Excellent
+B_00637,Very Good
+B_00638,Very Good
+B_00639,Average
+B_00640,Very Good
+B_00641,Very Good
+B_00642,Very Good
+B_00643,Very Good
+B_00644,Very Good
+B_00645,Good
+B_00646,Excellent
+B_00647,Average
+B_00648,Good
+B_00649,Very Good
+B_00650,Very Good
+B_00651,Dissatisfied
+B_00652,Dissatisfied
+B_00653,Average
+B_00654,Good
+B_00655,Excellent
+B_00656,Very Dissatisfied
+B_00657,Average
+B_00658,Very Good
+B_00659,Very Good
+B_00660,Very Good
+B_00661,Good
+B_00662,Average
+B_00663,Excellent
+B_00664,Dissatisfied
+B_00665,Average
+B_00666,Good
+B_00667,Very Good
+B_00668,Fair
+B_00669,Good
+B_00670,Fair
+B_00671,Very Good
+B_00672,Good
+B_00673,Very Good
+B_00674,Good
+B_00675,Very Good
+B_00676,Very Good
+B_00677,Excellent
+B_00678,Dissatisfied
+B_00679,Very Good
+B_00680,Good
+B_00681,Average
+B_00682,Good
+B_00683,Very Good
+B_00684,Very Good
+B_00685,Good
+B_00686,Good
+B_00687,Excellent
+B_00688,Average
+B_00689,Good
+B_00690,Very Good
+B_00691,Very Good
+B_00692,Good
+B_00693,Very Good
+B_00694,Average
+B_00695,Dissatisfied
+B_00696,Dissatisfied
+B_00697,Good
+B_00698,Average
+B_00699,Fair
+B_00700,Very Good
+B_00701,Dissatisfied
+B_00702,Good
+B_00703,Good
+B_00704,Very Good
+B_00705,Excellent
+B_00706,Dissatisfied
+B_00707,Very Good
+B_00708,Fair
+B_00709,Dissatisfied
+B_00710,Dissatisfied
+B_00711,Good
+B_00712,Very Good
+B_00713,Very Good
+B_00714,Very Good
+B_00715,Good
+B_00716,Average
+B_00717,Excellent
+B_00718,Average
+B_00719,Very Good
+B_00720,Excellent
+B_00721,Average
+B_00722,Very Dissatisfied
+B_00723,Dissatisfied
+B_00724,Good
+B_00725,Very Good
+B_00726,Dissatisfied
+B_00727,Good
+B_00728,Very Good
+B_00729,Very Good
+B_00730,Very Good
+B_00731,Very Dissatisfied
+B_00732,Very Dissatisfied
+B_00733,Good
+B_00734,Fair
+B_00735,Good
+B_00736,Good
+B_00737,Very Good
+B_00738,Average
+B_00739,Fair
+B_00740,Excellent
+B_00741,Good
+B_00742,Dissatisfied
+B_00743,Good
+B_00744,Average
+B_00745,Good
+B_00746,Very Good
+B_00747,Good
+B_00748,Average
+B_00749,Very Good
+B_00750,Very Good
+B_00751,Very Dissatisfied
+B_00752,Very Good
+B_00753,Dissatisfied
+B_00754,Very Good
+B_00755,Good
+B_00756,Dissatisfied
+B_00757,Average
+B_00758,Dissatisfied
+B_00759,Fair
+B_00760,Good
+B_00761,Fair
+B_00762,Good
+B_00763,Good
+B_00764,Very Good
+B_00765,Excellent
+B_00766,Dissatisfied
+B_00767,Average
+B_00768,Good
+B_00769,Fair
+B_00770,Excellent
+B_00771,Average
+B_00772,Very Good
+B_00773,Very Good
+B_00774,Very Good
+B_00775,Fair
+B_00776,Very Good
+B_00777,Good
+B_00778,Very Good
+B_00779,Dissatisfied
+B_00780,Very Good
+B_00781,Fair
+B_00782,Average
+B_00783,Good
+B_00784,Dissatisfied
+B_00785,Good
+B_00786,Good
+B_00787,Average
+B_00788,Good
+B_00789,Dissatisfied
+B_00790,Good
+B_00791,Very Good
+B_00792,Dissatisfied
+B_00793,Dissatisfied
+B_00794,Excellent
+B_00795,Very Good
+B_00796,Average
+B_00797,Very Good
+B_00798,Very Good
+B_00799,Very Good
+B_00800,Very Good
