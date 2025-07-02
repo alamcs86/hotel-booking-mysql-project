@@ -1,4 +1,6 @@
 
+# There is 5 tables in this project (Users, hotles, transactions, ratings, bookings) 
+
 create database temp1;
 
 use temp1;
